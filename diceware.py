@@ -27,3 +27,5 @@ for x in range(security):
 print("")
 print("\033[1m" + password + "\033[0m")
 print("")
+
+#Lukas Foukal 2021
