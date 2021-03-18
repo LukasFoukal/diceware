@@ -1,5 +1,4 @@
 # diceware
-generate your passwords without scrolling through a text file
 
 There are many apps and services online for making diceware passwords. This one is so simple you can verify yourself with minimals skills that it isn't sending you shiny new password straight to East Whereverlandia. I have kept the physical dice element in this process just use this to search through the wordlist. A paper list in a cave is probably safer, so don't use this if you are Edward Snowden, but if you were gonna Cmd+F anyway, I think it makes no difference.
 
