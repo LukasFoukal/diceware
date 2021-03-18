@@ -25,7 +25,7 @@ for x in range(security):
     password = password + wordlist[number] + " "
 
 print("")
-print("\033[1m" + password + "\033[0m")
+print("\033[1m" + password[:-1] + "\033[0m")
 print("")
 
 #Lukas Foukal 2021
